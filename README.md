@@ -26,6 +26,8 @@ The connections will vary slightly depending on your hardware, but here's a road
 - If you're using the LCD display, refer to the LiquidCrystal_I2C library documentation for specific connection instructions.
 - Connect the power and ground pins according to your motor and display specifications (Pins 13 and 12 are used here as examples).
 
+  ![Arduino Simulation](https://github.com/doffn/ELEVATOR/blob/main/Elevator.png)
+
 ## 🔍 Code Walkthrough: A Peek Under the Hood
 
 This code is like a well-oiled machine, with different functions working together:
