@@ -15,6 +15,7 @@ To build your elevator simulator, you'll need:
 | LEDs (one for each floor to show where you are) | 4 |
 | Jumper wires to connect everything | ⚡ |
 | Breadboard (optional, for easy prototyping) | 1 |
+| Dc motor with controller | 1 |
 
 ## 🔌 Wiring It Up!
 
